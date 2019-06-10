@@ -1,0 +1,10 @@
+{
+    "name": "1065425796/laravel",
+    "description": "laravel",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "*"
+    },
+    "license": "mit",
+    "minimum-stability": "dev"
+}
